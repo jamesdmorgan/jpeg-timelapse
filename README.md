@@ -4,7 +4,8 @@ Generate a timelapse mov from a directory of JPEG images
 The script relies on [ffmpeg](https://www.ffmpeg.org/)
 
 ```bash
- bash jpeg-timelapse.sh -l 20 ~/Pictures/example/
+bash jpeg-timelapse.sh -l 20 ~/Pictures/example/
+
 Using 20 landscape image(s) at 5 fps
   [1] DSCF1115.JPG
   [2] DSCF1116.JPG
